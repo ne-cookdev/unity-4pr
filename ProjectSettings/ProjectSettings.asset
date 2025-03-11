@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 141dd84da3f3d3fc796f51467d753f50
+  productGUID: a632caa9e3cdc314c8b9d3d1d1aadedd
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 4PR
+  productName: PR4
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 4PR
+  metroPackageName: PR4
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 4PR
+  metroApplicationDescription: PR4
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,11 +915,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: a44ee9db-f335-4d46-9e8f-c5b57fcc6024
+  cloudProjectId: ddd51c67-48f9-47dd-ad9f-394ce9f029d0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 4PR
-  organizationId: ne-cookdev
+  projectName: PR4
+  organizationId: dashakrupenyova
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
